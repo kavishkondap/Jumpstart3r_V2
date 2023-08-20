@@ -1,0 +1,9 @@
+[theme] # You have to add this line
+
+primaryColor = '#f1961a' #'#2c7053' # Green
+
+backgroundColor = '#042e38'
+
+secondaryBackgroundColor = '#FFFFFF' # White
+textColor = '#f1961a'
+font = "sans serif"
